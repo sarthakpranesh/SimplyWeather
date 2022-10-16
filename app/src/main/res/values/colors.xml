@@ -7,4 +7,13 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="rain_bg">#566f97</color>
+    <color name="rain_text">#cbd2c0</color>
+    <color name="windy_bg">#4591ae</color>
+    <color name="windy_text">#f0f0f0</color>
+    <color name="cloudy_bg">#7787a0</color>
+    <color name="cloudy_text">#e3e9e9</color>
+    <color name="sunny_bg">#d2d8f0</color>
+    <color name="sunny_text">#738db0</color>
 </resources>
