@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Simply Weather</string>
+    <string name="lookingForCloudsAround">"Looking for clouds and rain around you!"</string>
+    <string name="loading">Loading</string>
 </resources>
